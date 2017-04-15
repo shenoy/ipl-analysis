@@ -1,0 +1,437 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"for",
+				"for\tfor (…) {…} (Improved Native For-Loop)"
+			],
+			[
+				"arr",
+				"Array"
+			],
+			[
+				"fun",
+				"function〔keyword〕"
+			],
+			[
+				"joinU",
+				"joinUserChallenge_response"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 215.0,
+		"last_filter": "remove",
+		"selected_items":
+		[
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"sublimelinter",
+				"SublimeLinter: Clear Caches"
+			],
+			[
+				"package",
+				"Package Control: Remove Package"
+			],
+			[
+				"themr",
+				"Themr: List themes"
+			],
+			[
+				"remove pack",
+				"Package Control: Remove Package"
+			],
+			[
+				"eslint",
+				"ESLint"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"sidebar",
+				"Side Bar: Refresh"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"settings",
+				"Preferences: Settings"
+			]
+		],
+		"width": 575.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/private/var/www/ipl-analysis"
+	],
+	"file_history":
+	[
+		"/private/var/www/ipl-analysis/index.html",
+		"/private/var/www/ipl-analysis/scripts/analysis.js",
+		"/Users/vs/code/scapi/src/api/game/services.js",
+		"/Users/vs/code/scapi/src/api/game/index.js"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 94.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"authCMS",
+			"dataFetch",
+			"getChallengesLeaderboard",
+			"updateUseRMatch",
+			"update user_matches",
+			"41",
+			":user_id",
+			":challenge_id",
+			":user_id",
+			":user_i",
+			"`+",
+			"config_index",
+			"joi.any().allow",
+			"scGameSequelize",
+			"challenge_tournaments",
+			"user_challenge_info",
+			"`",
+			"updateLeaderboardRanks",
+			"m.match_starttime",
+			"m.match_starttime >=",
+			"m.match_starttime >",
+			"m.match_Starttime",
+			"insert into leaderboard_challenges",
+			"reply",
+			"setMatchResul",
+			"updateUSerPoints",
+			"setMatchResult",
+			"reply",
+			"promises",
+			"userTransaction",
+			"transactions",
+			"undoMatchResult",
+			"handleOrder",
+			"createPayoutOrder",
+			"undoMatchResult",
+			"conditions",
+			"undoMAtchResult",
+			"undoMatchResul",
+			"undoMAtchResult",
+			"last_match_id",
+			"query3",
+			"query2",
+			"updateChallengesLeaderboard",
+			"updategroupsLeader",
+			"updatEGroupsLeaderboard",
+			"setMatchResult",
+			"updatesportsLeaderboard",
+			"generateOrder",
+			"verifychecksum",
+			"html_obj",
+			"result",
+			"request.payload",
+			"html_obj",
+			"verifyChecksum",
+			"html_obj",
+			"html_obk",
+			"html_obj",
+			"l.map(m=>m.getDeliveries",
+			"sixes",
+			"fours",
+			"query",
+			"do update",
+			"ifsc_code",
+			"ON CONFLIC",
+			"request.payload",
+			"getUserChallenges",
+			"challenge_id",
+			".js",
+			"script",
+			"div\nspan\n\n",
+			"div"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 51.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 291.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "ipl-analysis.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"anal",
+				"scripts/analysis.js"
+			],
+			[
+				"index",
+				"index.html"
+			],
+			[
+				"gamehandlers_pa",
+				"src/api/game/handlers_paytm.js"
+			],
+			[
+				"gameservice",
+				"src/api/game/services_v2.js"
+			],
+			[
+				"gamehadnlers_v2",
+				"src/api/game/handlers_v2.js"
+			],
+			[
+				"gamehandler",
+				"src/api/game/handlers.js"
+			],
+			[
+				"gameindex",
+				"src/api/game/index.js"
+			],
+			[
+				"serv",
+				"services.js"
+			],
+			[
+				"gamehandlers",
+				"src/api/game/handlers.js"
+			],
+			[
+				"handlers",
+				"src/api/draft/handlers.js"
+			],
+			[
+				"handlers.js",
+				"src/api/game/handlers.js"
+			],
+			[
+				"handlers_pay",
+				"src/api/game/handlers_paytm.js"
+			],
+			[
+				"handlers_paytm",
+				"src/api/game/handlers_paytm.js"
+			],
+			[
+				"services_v2",
+				"src/api/game/services_v2.js"
+			],
+			[
+				"services.js",
+				"src/api/game/services.js"
+			],
+			[
+				"handlers_v2",
+				"src/api/game/handlers_v2.js"
+			],
+			[
+				"paytm/han",
+				"src/api/paytm/handlersV1.js"
+			],
+			[
+				"",
+				"src/api/game/handlers_v2.js"
+			],
+			[
+				"gameservices_v2",
+				"src/api/game/services_v2.js"
+			],
+			[
+				"payin_",
+				"src/models/scgame/payin_order.model.js"
+			],
+			[
+				"gameservices",
+				"src/api/game/services.js"
+			],
+			[
+				"match",
+				"scripts/match.js"
+			],
+			[
+				"analy",
+				"scripts/analysis.js"
+			],
+			[
+				"leaderboard",
+				"src/models/scgame/leaderboard_challenges.model.js"
+			],
+			[
+				"user_pay",
+				"src/models/scgame/user_payment_info.model.js"
+			],
+			[
+				"gamehandl",
+				"src/api/game/handlers_v2.js"
+			],
+			[
+				".js",
+				"scripts/yaml.js"
+			],
+			[
+				"yaml",
+				"scripts/yaml.js"
+			],
+			[
+				"in",
+				"index.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"scapi",
+				"/private/var/www/scapi.sublime-workspace"
+			],
+			[
+				"",
+				"/private/var/www/Projects/scapi.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 234.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

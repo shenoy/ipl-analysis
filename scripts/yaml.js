@@ -1838,6 +1838,7 @@ Yaml = (function() {
   };
 
   Yaml.load = function(path, callback, exceptionOnInvalidType, objectDecoder) {
+    console.log('loading yaml');
     return this.parseFile(path, callback, exceptionOnInvalidType, objectDecoder);
   };
 
